@@ -1,0 +1,23 @@
+# environment
+.env
+.venv/
+venv/
+
+# vector store & checkpoints
+chroma_db/
+checkpoints.db
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

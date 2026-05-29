@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langgraph
+chromadb
+gradio
+python-dotenv
+wikipedia
+tiktoken
+sentence-transformers
+langgraph-checkpoint-sqlite
+langchain-text-splitters
